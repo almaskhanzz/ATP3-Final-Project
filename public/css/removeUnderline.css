@@ -1,0 +1,25 @@
+table {
+  border-collapse: collapse;
+  margin: 0px;
+  border: 0px;
+}
+
+table, td, th {
+  border: 1px solid black;
+  margin: 0px;
+  border: 0px;
+}
+
+.rmvunderline{
+    text-decoration: none !important;
+}
+
+#myTable td, #myTable th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+#myTable tr:nth-child(even) {
+  background-color: #dddddd;
+}

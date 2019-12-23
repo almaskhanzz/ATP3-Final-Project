@@ -1,0 +1,56 @@
+.btn:hover{
+    background: transparent;
+    color: #7F00FF;
+    border: 2px solid #7F00FF;
+   }
+    .btn{
+       padding: 12px 20px;
+       background: #7F00FF;
+       display: inline-block;
+       border: 0;
+       color: white;
+       font-size: 12px;
+       text-decoration: none;
+       border: 2px solid #7F00FF;
+       text-align: center;
+       font-weight: bold;
+       transition: 0.25s ease-in;
+       cursor: pointer;
+   }
+   .delete:hover{
+    background: transparent;
+    color: red;
+    border: 2px solid red;
+   }
+    .delete{
+       padding: 12px 20px;
+       background: red;
+       display: inline-block;
+       border: 0;
+       color: white;
+       font-size: 12px;
+       text-decoration: none;
+       border: 2px solid red;
+       text-align: center;
+       font-weight: bold;
+       transition: 0.25s ease-in;
+       cursor: pointer;
+   }
+   .edit:hover{
+    background: transparent;
+    color: green;
+    border: 2px solid green;
+   }
+    .edit{
+       padding: 12px 20px;
+       background: green;
+       display: inline-block;
+       border: 0;
+       color: white;
+       font-size: 12px;
+       text-decoration: none;
+       border: 2px solid green;
+       text-align: center;
+       transition: 0.25s ease-in;
+       cursor: pointer;
+   }
